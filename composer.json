@@ -1,5 +1,5 @@
 {
-    "name": "nubay_services/par_content",
+    "name": "handmangroup/par_content",
     "description": "Creates a paragraph type for content paragraphs",
     "type": "drupal-module",
     "authors": [
